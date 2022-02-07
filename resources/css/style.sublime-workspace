@@ -1,0 +1,578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"checked"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"r",
+				"required"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"l",
+				"label"
+			],
+			[
+				"a",
+				"action"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"li",
+				"lightgray"
+			],
+			[
+				"light",
+				"lightgray"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"b",
+				"border-bottom"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"package-",
+				"packages-heading"
+			],
+			[
+				"h",
+				"h4"
+			],
+			[
+				"ba",
+				"background-attachment"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"se",
+				"section-sub-heading"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"t",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"s",
+				"section-heading"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"fi",
+				"figure"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"L",
+				"li"
+			],
+			[
+				"Digi",
+				"Digisolve-"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"text",
+				"text-rendering"
+			],
+			[
+				"mi",
+				"minlength"
+			],
+			[
+				"flo",
+				"flex-direction"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
+				"sp",
+				"span"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"wo",
+				"word-spacing"
+			],
+			[
+				"wht",
+				"white"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"fonr",
+				"font-variant"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"fa",
+				"font-family"
+			],
+			[
+				"di",
+				"flex-direction"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"la",
+				"Last"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"onmo",
+				"onmouseout"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"onM",
+				"onmouseover"
+			],
+			[
+				"dt",
+				"dt"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"M",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/SANAT/Desktop/nikita/blog/header.css",
+		"/C/Users/SANAT/Desktop/nikita/blog/about.html",
+		"/C/Users/SANAT/Desktop/Digisolve/vendors/css/fluid.css",
+		"/C/Users/SANAT/Desktop/nikita/blog/index.html",
+		"/C/Users/SANAT/Desktop/nikita/blog/index.css",
+		"/C/Users/SANAT/Desktop/nikita/blog/about.css",
+		"/C/Users/SANAT/Desktop/nikita/blog/blog.html",
+		"/C/Users/SANAT/Desktop/nikita/blog/blog.css",
+		"/C/Users/SANAT/Desktop/nikita/blog/style.css",
+		"/C/Users/SANAT/Desktop/nikita/my blog.css",
+		"/C/Users/SANAT/Desktop/nikita/my blog.html",
+		"/C/Users/SANAT/Desktop/nikita/form.css",
+		"/C/Users/SANAT/Desktop/nikita/forms.htm",
+		"/C/Users/SANAT/Desktop/my first blog post/style.css",
+		"/C/Users/SANAT/Desktop/my first blog post/index.html",
+		"/C/Users/SANAT/Desktop/nikita/postion.html",
+		"/C/Users/SANAT/Desktop/nicky.html",
+		"/C/Users/SANAT/Desktop/nikita/project1/basic.html",
+		"/C/Users/SANAT/Desktop/basic.html",
+		"/H/xampp/htdocs/next-app/pages/index.js",
+		"/C/Users/SANAT/Desktop/MultiSelectBox/MultiSelectBox.js",
+		"/H/xampp/htdocs/hacep-11-11-2021/frontend/src/modules/HouseHoldModule/Utils/HouseHoldApiUtils.js",
+		"/H/xampp/htdocs/hacep-11-11-2021/frontend/src/modules/HouseHoldModule/Utils/HouseHoldConstants.js",
+		"/H/xampp/htdocs/hacep-11-11-2021/frontend/src/shared/constants/apisConstants.js",
+		"/H/xampp/htdocs/hacep/frontend/src/shared/constants/apisConstants.js",
+		"/H/xampp/htdocs/hacep-11-11-2021/frontend/src/modules/HouseHoldModule/Utils/HouseHoldReducers.js",
+		"/H/xampp/htdocs/hacep-11-11-2021/frontend/src/modules/HouseHoldModule/Utils/HouseHoldAction.js",
+		"/H/xampp/htdocs/hacep-11-11-2021/frontend/src/modules/HouseHoldModule/HouseHoldModule.js",
+		"/H/xampp/htdocs/webrtc_demo/demo2/index.html",
+		"/H/xampp/htdocs/independence-client/src/routes/NoAuthRoute.js",
+		"/H/xampp/htdocs/independence-client/src/routes/index.js",
+		"/C/Users/SANAT/Downloads/next.js-canary/examples/with-redux-wrapper/pages/_app.js",
+		"/C/Users/SANAT/Downloads/next.js-canary/examples/with-redux-wrapper/store/store.js",
+		"/C/Users/SANAT/Downloads/next.js-canary/examples/with-redux-wrapper/components/AddCount.js",
+		"/C/Users/SANAT/Downloads/next.js-canary/examples/with-redux-wrapper/pages/other.js",
+		"/C/Users/SANAT/Downloads/next.js-canary/examples/with-redux-wrapper/components/Page.js",
+		"/C/Users/SANAT/Downloads/next.js-canary/examples/with-redux-wrapper/pages/index.js",
+		"/H/xampp/htdocs/hacep/backend/.env",
+		"/C/Users/SANAT/Downloads/test-app-hecap-auth/src/App.js",
+		"/H/xampp/htdocs/webrtc_demo/demo2/main.js",
+		"/H/xampp/htdocs/hacep/backend/src/common/config/constant.ts",
+		"/H/xampp/htdocs/web.amplify/src/pages/employees/index.js",
+		"/H/xampp/htdocs/web.amplify/src/shared/components/Stepper/Stepper.js",
+		"/H/xampp/htdocs/web.amplify/src/modules/Employees/Employees.js",
+		"/H/xampp/htdocs/web.amplify/src/modules/Employees/CreateEmployee/Utils/CreateEmployeeUtils.js",
+		"/H/xampp/htdocs/independence-client/src/utils/storeManager.js",
+		"/H/xampp/htdocs/web.amplify/src/shared/constants/apisConstants.js",
+		"/H/xampp/htdocs/web.amplify/src/shared/utils/utils.js",
+		"/H/xampp/htdocs/independence-client/src/customHooks/useForm.js",
+		"/H/xampp/htdocs/independence-client/src/components/CreateCompany/CreateCompany.js",
+		"/H/xampp/htdocs/independence-client/src/components/CreateCompany/CreateCompanyUtils.js",
+		"/H/xampp/htdocs/web.amplify/src/modules/Employees/CreateEmployee/CreateEmployee.js",
+		"/H/xampp/htdocs/web.amplify/src/modules/Employees/CreateEmployee/BasicDetails/BasicDetails.js",
+		"/C/Users/SANAT/Downloads/WelcomeCard.js",
+		"/H/xampp/htdocs/hacep/frontend/src/shared/styles/icomoon/ico-moon.scss",
+		"/C/Users/SANAT/Downloads/LoginForm.js",
+		"/H/xampp/htdocs/hacep/frontend/src/shared/components/CommonCard/index.js",
+		"/H/xampp/htdocs/hacep/frontend/src/shared/components/ExpectationCard/index.js",
+		"/H/xampp/htdocs/web.amplify/.env.development",
+		"/H/xampp/htdocs/hacep/frontend/src/modules/Home/Utils/HomeActions.js",
+		"/H/xampp/htdocs/hacep/frontend/src/modules/Home/Utils/HomeReducers.js",
+		"/H/xampp/htdocs/web.amplify/src/shared/components/Layout/Layout.js",
+		"/H/xampp/htdocs/web.amplify/src/shared/components/Loader/Loader.js",
+		"/H/xampp/htdocs/web.amplify/src/shared/components/hoc/withLoader.js",
+		"/H/xampp/htdocs/web.amplify/src/shared/customHooks/useIsMounted.js",
+		"/H/xampp/htdocs/web.amplify/src/shared/components/hoc/withAuth.js",
+		"/C/Users/SANAT/Downloads/StoreUtils.js",
+		"/C/Users/SANAT/Downloads/employee-list.json",
+		"/H/xampp/htdocs/independence-client/src/customHooks/useOuterClick.js",
+		"/C/Users/SANAT/Desktop/test.html",
+		"/H/xampp/htdocs/independence-client/src/components/Layout/Layout.js",
+		"/H/xampp/htdocs/independence-client/src/components/Layout/SideNav/SideNav.js",
+		"/H/xampp/htdocs/independence-client/src/components/Layout/SideNav/NavItem/NavItem.js",
+		"/H/xampp/htdocs/independence-client/src/components/Layout/SideNav/styles.scss",
+		"/H/xampp/htdocs/react-app/src/reportWebVitals.js",
+		"/H/xampp/htdocs/react-app/package.json",
+		"/H/xampp/htdocs/skoodio/server/src/app/comments/controller.js",
+		"/H/xampp/htdocs/skoodio/server/src/app/videos/controller.js",
+		"/C/Users/SANAT/Downloads/BrandStatusModalStyles.js",
+		"/H/Download/staples-code/staples-code/__tests__/Table.spec.js",
+		"/H/Download/staples-code/staples-code/package.json",
+		"/H/Download/staples-code/staples-code/jest.config.js",
+		"/C/Users/SANAT/Downloads/BrandStatusModal.js",
+		"/H/xampp/htdocs/independence-client/src/components/Layout/SideNav/NavItem/styles.scss",
+		"/H/xampp/htdocs/independence-client/src/styles/utils/_mixins.scss",
+		"/H/Download/staples-code/staples-code/__tests__/components/shared/Layout/HeaderNew/HeaderMiddleSection/NavBar/LeftNavBar/LeftNavBar.spec.js",
+		"/H/Download/staples-code/staples-code/jsconfig.json",
+		"/H/Download/staples-code/staples-code/__tests__/SubMenuItem.spec.js",
+		"/H/xampp/htdocs/skoodio/server/src/app/collections/controller.js",
+		"/H/xampp/htdocs/skoodio/package-lock.json",
+		"/C/Users/SANAT/Downloads/react-sortable-hoc-master/examples/basic.js",
+		"/C/Users/SANAT/Downloads/controller.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
